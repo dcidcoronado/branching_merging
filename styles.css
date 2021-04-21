@@ -1,0 +1,10 @@
+.container{
+  width: 870px;
+}
+
+img {
+  width: 422px;
+  height: 270px;
+  margin-bottom: 10px;
+  border: 5px ridge #C0C0C0;
+}
